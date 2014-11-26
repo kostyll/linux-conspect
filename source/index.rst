@@ -12,7 +12,14 @@ Welcome to linux-conspect's documentation!
 .. toctree::
    :glob:
 
+   about
+   concept
+   history
    FHS
+   clibase
+   softinstall
+   networkconf
+   workspaceconf
 
 
 .. Problems
