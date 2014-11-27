@@ -6,8 +6,8 @@
 Welcome to linux-conspect's documentation!
 ==========================================
 
-Что в кухне
-===========
+Что на кухне
+============
 
 .. toctree::
    :glob:
@@ -20,6 +20,7 @@ Welcome to linux-conspect's documentation!
    softinstall
    networkconf
    workspaceconf
+   cookbook
 
 
 .. Problems
